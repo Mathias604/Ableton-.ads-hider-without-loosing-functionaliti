@@ -9,5 +9,3 @@ C:\System Volume Information
 C:\inetpub
 C:\Intel
 C:\Temp
-E:\
-F:\
