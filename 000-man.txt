@@ -1,0 +1,8 @@
+.\x-file-manager.ps1 -Mode hide -Extension asd
+.\x-file-manager.ps1 -Mode unhide -Extension asd
+.\x-file-manager.ps1 -Mode hide -Extension mp3
+.\x-file-manager.ps1 -Mode unhide -Extension mp3
+
+
+reset the hidden attribute:
+attrib -h -s /s /d "C:\Users\chaos\...."

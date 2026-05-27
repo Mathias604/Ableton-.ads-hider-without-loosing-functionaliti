@@ -1,0 +1,13 @@
+C:\Windows
+C:\Windows\System32
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\PerfLogs
+C:\$Recycle.Bin
+C:\System Volume Information
+C:\inetpub
+C:\Intel
+C:\Temp
+E:\
+F:\
